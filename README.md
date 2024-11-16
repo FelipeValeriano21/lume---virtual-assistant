@@ -40,6 +40,11 @@ Lume is built using a combination of modern technologies and frameworks, includi
 <img src="https://github.com/user-attachments/assets/10fa18d7-b1b6-4ce7-920c-1774d87ecc95" alt="Lume" width="300"/>
 
 
+<img src="https://github.com/user-attachments/assets/d08c20e3-3b19-495e-806c-4a34a5d89129" alt="Lume" width="500"/>
+
+
+
+
 
 ## Run Locally
 
