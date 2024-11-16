@@ -42,13 +42,13 @@ Lume is built using a combination of modern technologies and frameworks, includi
 Clone the project
 
 ```bash
-  git clone https://github.com/FelipeValeriano21/lume---virtual-assistan)
+  git clone https://github.com/FelipeValeriano21/lume---virtual-assistant)
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd lume---virtual-assistant
 ```
 
 Install dependencies
@@ -66,5 +66,5 @@ Start the server
 
 ## Author
 
-- [@Felipe Valeriano](https://github.com/FelipeValeriano21/lume---virtual-assistan)
+- [@Felipe Valeriano](https://github.com/FelipeValeriano21)
 
