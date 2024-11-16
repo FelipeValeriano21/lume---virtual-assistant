@@ -6,7 +6,7 @@ Lume is a virtual assistant designed to help with your daily routine. You can us
 
 
 
-![Logo](https://github.com/user-attachments/assets/288ef2a5-4bf7-438a-8261-95f914204a5)
+![lume](https://github.com/user-attachments/assets/e1f325d6-c7ae-496e-9fc6-ba384611c915)
 
 
 ## Technologies
