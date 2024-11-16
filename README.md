@@ -42,7 +42,7 @@ Lume is built using a combination of modern technologies and frameworks, includi
 Clone the project
 
 ```bash
-  git clone https://github.com/FelipeValeriano21/lume---virtual-assistant)
+  git clone https://github.com/FelipeValeriano21/lume---virtual-assistant
 ```
 
 Go to the project directory
